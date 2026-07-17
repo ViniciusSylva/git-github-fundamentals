@@ -1,75 +1,75 @@
-# 📚 Git & GitHub - Anotações
+# 📚 Git & GitHub - Notes
 
-## 🔹 Conceitos Básicos
+## 🔹 Basic Concepts
 
-* **Git** = Sistema de versionamento de código
-* **GitHub** = Plataforma online (tipo uma rede social para programadores) para hospedar e compartilhar código
+* **Git** = A version control system for tracking code changes  
+* **GitHub** = An online platform (like a social network for developers) to host and share code  
 
 ---
 
 ## 🔹 VCS (Version Control System)
 
-VCS = Sistema de Controle de Versão
+VCS = Version Control System  
 
-### Principais exemplos:
+### Main examples:
 
-* **Concurrent Versions System (CVS)**
-* **Apache Subversion (SVN)**
+* **Concurrent Versions System (CVS)**  
+* **Apache Subversion (SVN)**  
 
-### Sistema Distribuído:
+### Distributed System:
 
-* **Git**
-
----
-
-## 🔹 Outras Plataformas
-
-* **Bitbucket** = Plataforma semelhante ao GitHub
-
-  * Muito utilizada em ambientes corporativos
-  * Integração forte com ferramentas como o **Jira**
+* **Git**  
 
 ---
 
-## 🔹 Como funciona na prática
+## 🔹 Other Platforms
 
-Essas ferramentas permitem que:
+* **Bitbucket** = A platform similar to GitHub  
 
-* Cada pessoa tenha sua própria versão do projeto
-* Desenvolvedores trabalhem em partes diferentes simultaneamente
-* Todas as alterações sejam integradas posteriormente
-
----
-
-## 🔹 Vantagens do Git
-
-* Histórico completo do código (várias versões acessíveis a qualquer momento)
-* Rastreabilidade:
-
-  * Quem fez alterações
-  * Quando foram feitas
-  * Por que foram feitas
-* Excelente para trabalho em equipe
-* Maior segurança no desenvolvimento
-* Organização do projeto
+  * Widely used in corporate environments  
+  * Strong integration with tools like **Jira**  
 
 ---
 
-## 🔹 GitHub - Funcionalidades
+## 🔹 How It Works in Practice
 
-* Hospedagem de código-fonte
-* Projetos ilimitados
-* Recursos semelhantes a redes sociais (seguir, curtir, etc.)
-* **GitHub Pages** integrado (para hospedar sites)
-* Colaboração em projetos
-* Sistema de **Forks**:
+These tools allow:
 
-  * Permite copiar projetos de outros desenvolvedores
-  * Você pode continuar o desenvolvimento
-  * Deve respeitar as licenças do projeto original
+* Each developer to have their own version of the project  
+* Multiple developers to work on different parts simultaneously  
+* All changes to be merged and integrated later  
 
 ---
 
-## 🔹 História
+## 🔹 Advantages of Git
 
-*(Adicionar história.)*
+* Complete history of the code (multiple versions accessible at any time)  
+* Traceability:  
+
+  * Who made changes  
+  * When they were made  
+  * Why they were made  
+* Excellent for teamwork  
+* Increased development safety  
+* Better project organization  
+
+---
+
+## 🔹 GitHub - Features
+
+* Source code hosting  
+* Unlimited repositories  
+* Social features (follow, star, etc.)  
+* Integrated **GitHub Pages** (for hosting websites)  
+* Project collaboration  
+* **Fork system**:  
+
+  * Allows copying projects from other developers  
+  * You can continue development independently  
+  * Must respect the original project’s license  
+
+---
+
+## 🔹 History
+
+*(To be added.)*
