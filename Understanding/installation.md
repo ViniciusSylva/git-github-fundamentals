@@ -1,4 +1,4 @@
-## ⚙️ Lesson 3 & 4 — Git Installation and Initial Configuration
+## ⚙️ Lesson 03 & 04 — Git Installation and Initial Configuration
 
 In these lessons, the main objective was to prepare the development environment for using Git effectively. This includes installing Git on the system and configuring the essential user information that will be associated with every change made in a repository.
 

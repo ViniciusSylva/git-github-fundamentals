@@ -1,4 +1,4 @@
-# 📘 Lesson 5 — Creating a Repository (CLI Approach)
+## 📘 Lesson 5 — Creating a Repository (CLI Approach)
 
 In this lesson, the course demonstrates how to create a repository using GitHub Desktop.  
 However, in this project, the same process was done using the **Git command line interface (CLI)** to reinforce real-world practices.

@@ -1,4 +1,4 @@
-# 📚 Git & GitHub - Notes (Lessons 01 & 02)
+## 📚 Lessons 01 & 02 - Git & GitHub Notes
 
 > Course: Curso em Vídeo - Git & GitHub  
 
@@ -90,9 +90,3 @@ Git is a powerful version control system, and GitHub extends its capabilities by
 Together, they form the foundation of modern software development workflows.
 
 ---
-
-## 📌 Next Steps
-
-- Learn basic Git commands  
-- Understand commits and repository structure  
-- Practice using Git via CLI  
