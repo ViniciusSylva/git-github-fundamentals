@@ -1,75 +1,98 @@
-# 📚 Git & GitHub - Notes
+# 📚 Git & GitHub - Notes (Lessons 01 & 02)
 
-## 🔹 Basic Concepts
-
-* **Git** = A version control system for tracking code changes  
-* **GitHub** = An online platform (like a social network for developers) to host and share code  
+> Course: Curso em Vídeo - Git & GitHub  
 
 ---
 
-## 🔹 VCS (Version Control System)
+## 🎯 Overview
 
-VCS = Version Control System  
+This section covers the fundamental concepts of Git and GitHub, including version control systems and how they are used in real-world development.
 
-### Main examples:
+---
 
-* **Concurrent Versions System (CVS)**  
-* **Apache Subversion (SVN)**  
+## 🔹 Basic Concepts
 
-### Distributed System:
+- **Git** → A distributed version control system used to track changes in code  
+- **GitHub** → A cloud platform for hosting Git repositories and collaborating with other developers  
 
-* **Git**  
+---
+
+## 🔹 Version Control System (VCS)
+
+A **Version Control System (VCS)** is a tool that helps developers manage changes to source code over time.
+
+### 📌 Examples:
+
+- **CVS (Concurrent Versions System)**  
+- **SVN (Apache Subversion)**  
+
+### 🚀 Distributed VCS:
+
+- **Git** → Each developer has a full copy of the repository  
 
 ---
 
 ## 🔹 Other Platforms
 
-* **Bitbucket** = A platform similar to GitHub  
+- **Bitbucket** → Similar to GitHub  
 
-  * Widely used in corporate environments  
-  * Strong integration with tools like **Jira**  
+  - Common in enterprise environments  
+  - Strong integration with tools like **Jira**  
 
 ---
 
 ## 🔹 How It Works in Practice
 
-These tools allow:
+Version control systems allow:
 
-* Each developer to have their own version of the project  
-* Multiple developers to work on different parts simultaneously  
-* All changes to be merged and integrated later  
+- Developers to work independently on their own copies  
+- Multiple people to work on different features at the same time  
+- Changes to be merged into a single project  
 
 ---
 
 ## 🔹 Advantages of Git
 
-* Complete history of the code (multiple versions accessible at any time)  
-* Traceability:  
+- Full history of the project  
+- Easy access to previous versions  
+- Traceability:
 
-  * Who made changes  
-  * When they were made  
-  * Why they were made  
-* Excellent for teamwork  
-* Increased development safety  
-* Better project organization  
+  - Who made changes  
+  - When changes were made  
+  - Why changes were made  
 
----
-
-## 🔹 GitHub - Features
-
-* Source code hosting  
-* Unlimited repositories  
-* Social features (follow, star, etc.)  
-* Integrated **GitHub Pages** (for hosting websites)  
-* Project collaboration  
-* **Fork system**:  
-
-  * Allows copying projects from other developers  
-  * You can continue development independently  
-  * Must respect the original project’s license  
+- Better collaboration  
+- Increased security during development  
+- Improved project organization  
 
 ---
 
-## 🔹 History
+## 🔹 GitHub Features
 
-*(To be added.)*
+- Source code hosting  
+- Unlimited repositories  
+- Social features (follow, star, fork)  
+- **GitHub Pages** for hosting static websites  
+- Collaboration tools (issues, pull requests)  
+
+### 🔁 Fork System
+
+- Allows copying another repository  
+- Enables independent development  
+- Requires respecting the original license  
+
+---
+
+## 🧠 Summary
+
+Git is a powerful version control system, and GitHub extends its capabilities by enabling collaboration and remote hosting.
+
+Together, they form the foundation of modern software development workflows.
+
+---
+
+## 📌 Next Steps
+
+- Learn basic Git commands  
+- Understand commits and repository structure  
+- Practice using Git via CLI  
